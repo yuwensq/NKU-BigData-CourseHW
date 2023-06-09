@@ -1,0 +1,1 @@
+我们分别使用SVD，SVD++，ItemCF和UserCF四种方法实现了推荐系统，其中SVD实现出来效果最好。

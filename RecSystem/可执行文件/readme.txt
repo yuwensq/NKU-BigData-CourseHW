@@ -1,0 +1,1 @@
+测试时请将train.txt test.txt itemAttribute.txt这三个文件与可执行文件放在同一文件夹下。
